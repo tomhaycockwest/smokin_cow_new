@@ -328,10 +328,11 @@ nav.mobile_header {display:none!important;
 .home_info {
 	padding:35px 0 32px 0;
 	color:#ffffff;
-	background-image:url(../images/home_img.jpg);
+	background-image:url(../images/office.jpg);
 	background-repeat:no-repeat;
 	background-position:0 0;
 	background-size: 1140px 537px; 
+	height: 537px;
 }
 .home_info ul {
 	padding:0;
@@ -1303,7 +1304,7 @@ h4.title {
 }
 
 /** Contact Section **/
-#contact header{background-color:#a7b249;
+#contact header{background-color:#43B9B7;
 }
 .contact_info p {
 	padding:10px 10px 10px 56px;
